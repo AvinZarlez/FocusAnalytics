@@ -23,6 +23,7 @@ The data can then be broken down based on timeframe and/or device.
         - In the Azure portal create a Mobile App. Once the deployment completes, go the Overview page and copy the Mobile App URI Example: http://yourapphere.azurewebsites.net
         - Under Mobile Menu create an Easy Table. Click on the prompt to configure Easy Tables/Easy APIs
             - First click on "Connect to a database" and create a database connection.
+            - **CRITICAL:** When creating the database connection, be sure to name the connection string *MS_TableConnectionString*
             - Refresh and then click on "Create TodoItem"
         - Under the Easy Table menu  click on the plus sign to add a new table and call it "**ReportableFocusEvent**".  
 
@@ -114,3 +115,12 @@ Team:
 Huge thanks to:
 - Adam Tuliper
 - Brian Peek
+
+Ongoing development beyond hackathon:
+- Jared Bienz
+
+
+## Attribution
+The following 3D models were kindly offered as [CC0](https://creativecommons.org/publicdomain/zero/1.0/) but we wanted to give credit anyway.
+
+- [Car](Assets/FocusAnalytics/Models/Car) - By MrCraft Animation can be found [here](https://opengameart.org/content/cars-pack).
