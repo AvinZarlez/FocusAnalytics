@@ -887,7 +887,7 @@ Prefab:
     - target: {fileID: 114867303869586894, guid: 03139700cbb234b40971286a86d3fd34,
         type: 2}
       propertyPath: MobileAppUri
-      value: http://mranalytics.azurewebsites.net
+      value: http://yourapphere.azurewebsites.net
       objectReference: {fileID: 0}
     - target: {fileID: 114867303869586894, guid: 03139700cbb234b40971286a86d3fd34,
         type: 2}
