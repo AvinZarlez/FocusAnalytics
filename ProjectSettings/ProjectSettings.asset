@@ -71,11 +71,6 @@ PlayerSettings:
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
-<<<<<<< HEAD
-  deferSystemGesturesMode: 0
-  hideHomeButton: 0
-=======
->>>>>>> master
   submitAnalytics: 1
   usePlayerLog: 1
   bakeCollisionMeshes: 0
@@ -106,11 +101,6 @@ PlayerSettings:
   n3dsEnableVSync: 0
   ignoreAlphaClear: 0
   xboxOneResolution: 0
-<<<<<<< HEAD
-  xboxOneSResolution: 0
-  xboxOneXResolution: 3
-=======
->>>>>>> master
   xboxOneMonoLoggingLevel: 0
   xboxOneLoggingLevel: 1
   xboxOneDisableEsram: 0
@@ -193,32 +183,15 @@ PlayerSettings:
   iPhone47inSplashScreen: {fileID: 0}
   iPhone55inPortraitSplashScreen: {fileID: 0}
   iPhone55inLandscapeSplashScreen: {fileID: 0}
-<<<<<<< HEAD
-  iPhone58inPortraitSplashScreen: {fileID: 0}
-  iPhone58inLandscapeSplashScreen: {fileID: 0}
-=======
->>>>>>> master
   iPadPortraitSplashScreen: {fileID: 0}
   iPadHighResPortraitSplashScreen: {fileID: 0}
   iPadLandscapeSplashScreen: {fileID: 0}
   iPadHighResLandscapeSplashScreen: {fileID: 0}
   appleTVSplashScreen: {fileID: 0}
-<<<<<<< HEAD
-  appleTVSplashScreen2x: {fileID: 0}
-  tvOSSmallIconLayers: []
-  tvOSSmallIconLayers2x: []
-  tvOSLargeIconLayers: []
-  tvOSLargeIconLayers2x: []
-  tvOSTopShelfImageLayers: []
-  tvOSTopShelfImageLayers2x: []
-  tvOSTopShelfImageWideLayers: []
-  tvOSTopShelfImageWideLayers2x: []
-=======
   tvOSSmallIconLayers: []
   tvOSLargeIconLayers: []
   tvOSTopShelfImageLayers: []
   tvOSTopShelfImageWideLayers: []
->>>>>>> master
   iOSLaunchScreenType: 0
   iOSLaunchScreenPortrait: {fileID: 0}
   iOSLaunchScreenLandscape: {fileID: 0}
@@ -325,12 +298,6 @@ PlayerSettings:
   switchTitleNames_9: 
   switchTitleNames_10: 
   switchTitleNames_11: 
-<<<<<<< HEAD
-  switchTitleNames_12: 
-  switchTitleNames_13: 
-  switchTitleNames_14: 
-=======
->>>>>>> master
   switchPublisherNames_0: 
   switchPublisherNames_1: 
   switchPublisherNames_2: 
@@ -343,12 +310,6 @@ PlayerSettings:
   switchPublisherNames_9: 
   switchPublisherNames_10: 
   switchPublisherNames_11: 
-<<<<<<< HEAD
-  switchPublisherNames_12: 
-  switchPublisherNames_13: 
-  switchPublisherNames_14: 
-=======
->>>>>>> master
   switchIcons_0: {fileID: 0}
   switchIcons_1: {fileID: 0}
   switchIcons_2: {fileID: 0}
@@ -361,12 +322,6 @@ PlayerSettings:
   switchIcons_9: {fileID: 0}
   switchIcons_10: {fileID: 0}
   switchIcons_11: {fileID: 0}
-<<<<<<< HEAD
-  switchIcons_12: {fileID: 0}
-  switchIcons_13: {fileID: 0}
-  switchIcons_14: {fileID: 0}
-=======
->>>>>>> master
   switchSmallIcons_0: {fileID: 0}
   switchSmallIcons_1: {fileID: 0}
   switchSmallIcons_2: {fileID: 0}
@@ -379,12 +334,6 @@ PlayerSettings:
   switchSmallIcons_9: {fileID: 0}
   switchSmallIcons_10: {fileID: 0}
   switchSmallIcons_11: {fileID: 0}
-<<<<<<< HEAD
-  switchSmallIcons_12: {fileID: 0}
-  switchSmallIcons_13: {fileID: 0}
-  switchSmallIcons_14: {fileID: 0}
-=======
->>>>>>> master
   switchManualHTML: 
   switchAccessibleURLs: 
   switchLegalInformation: 
@@ -426,11 +375,8 @@ PlayerSettings:
   switchLocalCommunicationIds_7: 
   switchParentalControl: 0
   switchAllowsScreenshot: 1
-<<<<<<< HEAD
   switchAllowsVideoCapturing: 1
   switchAllowsRuntimeAddOnContentInstall: 0
-=======
->>>>>>> master
   switchDataLossConfirmation: 0
   switchSupportedNpadStyles: 3
   switchSocketConfigEnabled: 0
@@ -575,11 +521,7 @@ PlayerSettings:
   scriptingDefineSymbols: {}
   platformArchitecture: {}
   scriptingBackend:
-<<<<<<< HEAD
-    Metro: 1
-=======
     Metro: 2
->>>>>>> master
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
@@ -617,11 +559,7 @@ PlayerSettings:
       EnterpriseAuthentication: False
       HumanInterfaceDevice: False
       InputInjectionBrokered: False
-<<<<<<< HEAD
-      InternetClient: False
-=======
       InternetClient: True
->>>>>>> master
       InternetClientServer: False
       Location: False
       Microphone: False

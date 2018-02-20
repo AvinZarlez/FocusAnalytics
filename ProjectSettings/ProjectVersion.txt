@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 m_EditorVersion: 2017.2.1p2
-=======
-m_EditorVersion: 2017.2.0p2-MRTP5
->>>>>>> Dev
-=======
-m_EditorVersion: 2017.2.0p2-MRTP5
->>>>>>> master
