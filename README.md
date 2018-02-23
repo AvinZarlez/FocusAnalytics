@@ -6,6 +6,8 @@ This hack is aimed to allow for data collection of users Gaze/Focus in mixed rea
 
 The data can then be broken down based on timeframe and/or device. 
 
+Here is a [blog post explaining the project in more detail](http://www.roadtomr.com/2018/02/02/2430/mr-analytics-sample/).
+
 ## Getting Started
 1. Requirements
     There are a few requirements for this to work with your project.
